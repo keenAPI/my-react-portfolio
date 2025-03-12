@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Development Sprinter",
+    "organisation": "redAcademy",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": ["At redAcademy I was taught the fundamentals of programming, introduced to various programming languages for example, C#, HTML, JavaScript, JSX and CSS. I was also introduced to the principles of Object Orientated Programming (Encapsulation, Abstraction, Inheritance and Polymorphism). I was given projects to display my skills, not just focusing on the coding side but also on my presentation skills. I had to present my work to the Senior Developers which helped a lot with my confidents and public class, I mean public speaking! After the first 6 months I was introduced to the 'Live Client' phase where the team and I worked on Live Client projects to maintain web-applications and also build them based on the client's needs for the next 6 months."],
+    "imageSrc": "history/redAcademyLogo.png"
+  }
+]

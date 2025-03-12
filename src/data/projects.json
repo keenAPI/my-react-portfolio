@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Bank Account Management System",
+    "imageSrc": "projects/bank-icon.png",
+    "description": "This is a Bank Account System created using C#. I made use of classes, created objects for the classes as well as initializing them using constructors.",
+    "skills": ["C#"],
+    "source": "https://github.com/keenAPI/bank-account-management-system.git"
+  },
+
+  {
+    "title": "Employee Payroll System",
+    "imageSrc": "projects/employee-icon.png",
+    "description": "Created a C# Employee Payroll System where I am able to add and display the employees, process the payroll and also give them the option to exit the program.",
+    "skills": ["C#"],
+    "source": "https://github.com/keenAPI/employee-payroll-system"
+  },
+
+  {
+    "title": "Student Record System",
+    "imageSrc": "projects/student-icon.png",
+    "description": "I created a Student Record System in C# where I am able to filter, sort and manipulate data using LINQ (Language Integrated Query).",
+    "skills": ["C#"],
+    "source": "https://github.com/keenAPI/student-record-system.git"
+  },
+  
+  {
+    "title": "Library Management System",
+    "imageSrc": "projects/library-icon.png",
+    "description": "This was a small C# Project based on OOP where I made use of varius classes and methods.",
+    "skills": ["C#"],
+    "source": "https://github.com/keenAPI/library-management-system.git"
+  }
+]
